@@ -120,7 +120,7 @@ body {
 }
 
 .lips-image {
-  background-image: url('/img/pink3.png');
+  background-image: url('./img/pink3.png');
   min-width: 30vw;
   max-height: 70vh;
   width: 500px;
