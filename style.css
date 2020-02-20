@@ -419,3 +419,10 @@ input[type='text'] {
   font-size: 24px;
   font-family: 'Poppins', sans-serif;
 }
+
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+}
